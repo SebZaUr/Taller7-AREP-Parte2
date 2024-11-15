@@ -53,7 +53,6 @@ os.environ["LANGCHAIN_API_KEY"] = getpass.getpass("Ingresa tu clave de API de La
 **4. Ejecutar el Notebook:**
 Ejecuta el resto de las celdas en el notebook para ver el funcionamiento completo de RAG, incluyendo ejemplos de recuperación de información.
 
-
 ## Prueba
 
 ![prueba](img/image.png)
